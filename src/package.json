@@ -1,6 +1,6 @@
 {
     "name": "nativescript-nointeract-sms",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "Sending Sms Using SmsManager",
     "main": "nointeract-sms",
     "typings": "index.d.ts",
